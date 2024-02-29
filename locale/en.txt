@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = 360 Sapporo
+tour.name = 360 Interior Lavia Living 5x12
 
 ## Media
 
@@ -14,10 +14,10 @@ album_F263B8A7_BB27_DFDE_4193_6CAC4FD1824B.label = Photo Album ProjectPIK2 (Area
 map_E49941EC_F540_321D_41E3_B5FBED6D6516.label = Denah 5x12 L1
 map_E58C152A_F540_3205_41E9_03608A9E2D4C.label = Denah 5x12 L3
 map_E58C43D7_F540_360B_41E0_6969A3F3419C.label = Denah 5x12 L2
-panorama_D0F14CE0_F5C0_3205_41CB_D505343B6CE6.label = Ruang Makan
-panorama_E3E2AA33_F540_360B_41BD_A9E554391220.label = Lavia Living 5x12
-panorama_FBB8185C_F543_D23D_41ED_24172219DA9E.label = Lorong Tangga
-panorama_FBB8713F_F543_F27B_41BC_04649AC609CF.label = Kamar Tidur 02
-panorama_FBB8FB96_F543_F60D_41EC_C9E470B13A76.label = Kamar Tidur 03
-panorama_FBB9BED6_F543_CE0D_41DF_770457B4859B.label = Kamar Utama
-panorama_FBFB3D98_F540_3204_41E3_9F321E894982.label = Kamar Tidur 01
+panorama_D0F14CE0_F5C0_3205_41CB_D505343B6CE6.label = Lantai 1 - Ruang Makan
+panorama_E3E2AA33_F540_360B_41BD_A9E554391220.label = Housing Tipe 5x12
+panorama_FBB8185C_F543_D23D_41ED_24172219DA9E.label = Lantai 2 - Lorong Tangga
+panorama_FBB8713F_F543_F27B_41BC_04649AC609CF.label = Lantai 2 - Kamar Tidur 02
+panorama_FBB8FB96_F543_F60D_41EC_C9E470B13A76.label = Lantai 2 - Kamar Tidur 03
+panorama_FBB9BED6_F543_CE0D_41DF_770457B4859B.label = Lantai 3 - Kamar Utama
+panorama_FBFB3D98_F540_3204_41E3_9F321E894982.label = Lantai 1 - Kamar Tidur 01
